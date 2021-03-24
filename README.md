@@ -19,6 +19,9 @@ letter
 
 ### Give an example of a sequence in this program.
 ### Give an example of a condition in this program.
+
+If statement - i.e, when the person picks between a cross or an 'O'.
+
 ### Give an example of an iteration in this program.
 ### Give an example of a list or collection in this program. What is saved in the list / collection?
 ### Give an example of a function that has at least one parameter in this program. And, briefly explain what the function is trying to achieve.
